@@ -4,7 +4,8 @@
 Li, T. (2020). Simulating the spread of epidemics in China on multi-layer transportation networks: Beyond COVID-19 in Wuhan. EPL (Europhysics Letters), 130(4), 48002.
 
 tianyil@mit.edu
-jiawen.luo@erdw.ethz.ch'
+
+jiawen.luo@erdw.ethz.ch
 
 # Usage #
 1. Change parameters in preprocess.py 
